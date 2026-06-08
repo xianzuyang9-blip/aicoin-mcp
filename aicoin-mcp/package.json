@@ -45,5 +45,14 @@
     "trading",
     "ccxt"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/aicoincom/aicoin-mcp/tree/main/aicoin-mcp#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aicoincom/aicoin-mcp.git",
+    "directory": "aicoin-mcp"
+  },
+  "bugs": {
+    "url": "https://github.com/aicoincom/aicoin-mcp/issues"
+  }
 }
